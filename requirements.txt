@@ -1,0 +1,9 @@
+flask
+pyTelegramBotAPI
+httpx
+requests
+pymongo
+python-dotenv
+curl_cffi
+uvloop
+aiohttp
